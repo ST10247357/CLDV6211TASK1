@@ -7678,11 +7678,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giago\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\giago\\OneDrive\\Documents\\GitHub\\CLDV6211TASK1\\MvcMoviePART8\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\giago\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\giago\\OneDrive\\Documents\\GitHub\\CLDV6211TASK1\\MvcMoviePART8\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\giago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giago\\source\\repos\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\giago\\OneDrive\\Documents\\GitHub\\CLDV6211TASK1\\MvcMoviePART8\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

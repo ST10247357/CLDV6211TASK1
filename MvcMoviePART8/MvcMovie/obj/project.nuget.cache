@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ml8vS8lAYJk=",
+  "dgSpecHash": "4dCjyoxMlts=",
   "success": true,
-  "projectFilePath": "C:\\Users\\giago\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\giago\\OneDrive\\Documents\\GitHub\\CLDV6211TASK1\\MvcMoviePART8\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giago\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\giago\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
